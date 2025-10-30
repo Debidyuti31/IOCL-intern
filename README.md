@@ -11,17 +11,17 @@ It enhances workplace safety by integrating QR-based access control, real-time f
 
 # Tech Stack
 
-## Backend: 
-Django – Handles authentication, data processing, and business logic.
-Django REST Framework (DRF) – Enables RESTful API communication between backend and frontend.
+## *Backend:* 
+1. Django – Handles authentication, data processing, and business logic.
+2. Django REST Framework (DRF) – Enables RESTful API communication between backend and frontend.
     
-## Computer Vision & Machine Learning
- YOLOv11 – For personal protective equipment (PPE) detection.
- OpenCV & dlib – For QR code decoding and face detection preprocessing.
- InsightFace – Performs accurate facial recognition and verification.
+## *Computer Vision & Machine Learning:*
+ 1. YOLOv11 – For personal protective equipment (PPE) detection.
+ 2. OpenCV & dlib – For QR code decoding and face detection preprocessing.
+ 3. InsightFace – Performs accurate facial recognition and verification.
 
-## Frontend:
-React.js – Provides an interactive, responsive, and API-integrated user interface.
+## *Frontend:*
+1. React.js – Provides an interactive, responsive, and API-integrated user interface.
 
 
 # Installation & Setup
