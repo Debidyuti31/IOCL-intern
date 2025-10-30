@@ -1,5 +1,5 @@
 # Overview
-The Smart Security System was developed during my internship at Indian Oil Corporation Limited (IOCL), Guwahati Refinery, under the mentorship of Mr. Prakash Kumar Sinha (Senior Manager – IS Department).
+The *Smart Security System* was developed during my internship at Indian Oil Corporation Limited (IOCL), Guwahati Refinery, under the mentorship of Mr. Prakash Kumar Sinha (Senior Manager – IS Department).
 It enhances workplace safety by integrating QR-based access control, real-time face recognition, and safety gear detection to ensure compliance and streamline entry/exit monitoring in industrial environments.
 
 # Features
