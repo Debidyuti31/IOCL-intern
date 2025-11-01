@@ -27,19 +27,28 @@ It enhances workplace safety by integrating QR-based access control, real-time f
 # Installation & Setup
 
 *1. Clone the Repository*
-
 git clone https://github.com/<your-username>/SmartSecuritySystem.git
 cd SmartSecuritySystem
 
 *2. Backend Setup (Django)*
-
 cd backend
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
 
 *3. Frontend Setup (React.js)*
-
 cd frontend
 npm install
 npm run dev
+
+
+# Achievements
+
+1. Successfully deployed and tested in real industrial environments.
+2. Optimized detection and recognition models for real-time inference on edge devices.
+3. Enhanced teamwork, adaptability, and technical problem-solving while meeting strict project timelines.
+
+# Acknowledgements
+
+Grateful to IOCL Guwahati Refinery for the opportunity and mentorship.
+Special thanks to Mr. Prakash Kumar Sinha (Senior Manager – IS Department) for his valuable guidance and continuous support.
